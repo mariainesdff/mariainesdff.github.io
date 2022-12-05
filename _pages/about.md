@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Associate in Formal Mathematics at
  <a href='https://www.imperial.ac.uk/people/m.de-frutos-fernandez'>Imperial College London</a>. 
