@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Associate in Formal Mathematics at
+ <a href='https://www.imperial.ac.uk/people/m.de-frutos-fernandez'>Imperial College London</a>. 
+
 
 profile:
   align: right
@@ -21,3 +23,5 @@ social: false  # includes social icons at the bottom of the page
 Write your biography here. Tell the world about yourself. 
 
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Last updated: 5 December 2022.
