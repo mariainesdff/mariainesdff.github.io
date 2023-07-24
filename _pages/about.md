@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: Postdoctoral Researcher in Mathematics at 
-<a href="https://matematicas.uam.es" target="_blank">Universidad Autónoma de Madrid</a>.
+ <a href="https://matematicas.uam.es" target="_blank">Universidad Autónoma de Madrid</a>.
 
 profile:
   align: right
