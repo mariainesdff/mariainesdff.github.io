@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am María Inés, Postdoctoral Researcher at <a href="https://matematicas.uam.es" target="_blank">Universidad Autónoma de Madrid</a>. Previously, I worked as a Research Associate at Imperial College London, in
+I am María Inés, a Postdoctoral Researcher at <a href="https://matematicas.uam.es" target="_blank">Universidad Autónoma de Madrid</a>. Previously, I worked as a Research Associate at Imperial College London, in
 <a href="https://www.imperial.ac.uk/people/k.buzzard" target="_blank">Kevin Buzzard</a>'s 
 research group. Before joining Imperial College, I worked as an Assistant Professor (Profesor 
 Ayudante Doctor) at Universidad Nebrija. I earned my PhD in Mathematics from Boston University in 
