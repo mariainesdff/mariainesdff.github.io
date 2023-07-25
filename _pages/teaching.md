@@ -9,6 +9,9 @@ nav_order: 3
 
 ## Lecturer
 
+### Universidad Autónoma de Madrid
+ - Teoría de Códigos y Criptografía (Fall 2023 - upcoming).
+
 ### Universidad Nebrija
  - Matemáticas II (Spring 2021).
  - Cálculo II (Spring 2021).
