@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: [María Inés, M. I.]
+first_name: [María Inés]
 middle_name: 
 last_name: [de Frutos-Fernández]
 email: 
@@ -233,8 +233,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [de Frutos-Fernández]
-  first_name: [María Inés]
+  last_name: [de Frutos-Fernández, de Frutos Fernández]
+  first_name: [María Inés, M. I.]
 
   style: apa
   locale: en
