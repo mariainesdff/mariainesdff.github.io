@@ -7,6 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+---
+## Lecture series and mini-courses
+- Formalizing Mathematics in Lean 4
+  <a href="https://www.usc.es/regaca/eacaschool23/index.html" target="_blank">Sixth EACA International School on Computer Algebra and its Applications </a>
+  Santiago de Compostela, 18--21 July 2023.
+
 ## Lecturer
 
 ### Universidad Autónoma de Madrid
