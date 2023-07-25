@@ -11,7 +11,13 @@ nav_order: 3
 ## Lecture series and mini-courses
 - Formalizing Mathematics in Lean 4<br>
   <a href="https://www.usc.es/regaca/eacaschool23/index.html" target="_blank">Sixth EACA International School on Computer Algebra and its Applications </a><br>
-  Santiago de Compostela, 18--21 July 2023.
+  Universidade de Santiago de Compostela, 18--21 July 2023.
+- Formalización de matemáticas en Lean<br>
+  <a href="https://www.ucm.es/doctorado/doctorado_inv_mat/noticias/57978" target="_blank">
+Doctorado en Investigación Matemática</a><br>
+  Universidad Complutense de Madrid, 6 February -- 1 March 2023.
+  
+  
 
 ## Lecturer
 
