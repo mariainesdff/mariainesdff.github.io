@@ -2,8 +2,11 @@ github_users:
   - mariainesdff
 
 github_repos:
+  - mariainesdff/local_class_field_theory
   - mariainesdff/local_fields
   - mariainesdff/ideles
-  - mariainesdff/ideles-journal
-  #- AntoineChambert-Loir/divided_powers
+  - AntoineChambert-Loir/divided_powers
+  - mariainesdff/EACA_School
+  - mariainesdff/curso_formalizacion
   - leanprover-community/mathlib/
+  - mariainesdff/ideles-journal
