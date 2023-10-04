@@ -21,7 +21,7 @@ Doctorado en Investigación Matemática</a><br>
 ## Lecturer
 
 ### Universidad Autónoma de Madrid
- - Teoría de Códigos y Criptografía (Fall 2023 - upcoming).
+ - Teoría de Códigos y Criptografía (Fall 2023).
 
 ### Universidad Nebrija
  - Matemáticas II (Spring 2021).
