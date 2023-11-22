@@ -11,4 +11,7 @@ nav_order: 2
 Centre international de rencontres mathématiques (CIRM), Luminy, France, 25 -- 29 March, 2024.<br>
 Co-organized with <a href="https://webusers.imj-prg.fr/~riccardo.brasca/" target="_blank">Riccardo Brasca</a>, <a href="https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml" target="_blank">Antoine Chambert-Loir</a>, and <a href="https://perso.univ-st-etienne.fr/nf51454h/index.html" target="_blank">Filippo A. E. Nuccio Mortarino Majno di Capriglio</a>.
 
+- <a href="https://www.icms.org.uk/Formalisation" target="_blank">Formalisation of Mathematics: Workshop for Women and Mathematicians of Minority Gender</a><br>
+International Centre for Mathematical Sciences (ICMS), Edinburgh, United Kingdom, 27 -- 31 May, 2024.<br>
+Co-organized with <a href="https://faculty.fordham.edu/hmacbeth1/" target="_blank">Heather Macbeth</a>.
 
