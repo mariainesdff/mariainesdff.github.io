@@ -15,3 +15,7 @@ Co-organized with <a href="https://webusers.imj-prg.fr/~riccardo.brasca/" target
 International Centre for Mathematical Sciences (ICMS), Edinburgh, United Kingdom, 27 -- 31 May, 2024.<br>
 Co-organized with <a href="https://faculty.fordham.edu/hmacbeth1/" target="_blank">Heather Macbeth</a>.
 
+- <a href="https://matematicas.uam.es/~jtn2024/" target="_blank">Décimas Jornadas de Teoría de Números</a><br>
+La Corrala, Universidad Autónoma de Madrid (UAM), Madrid, España, 8 -- 12 July, 2024.<br>
+Co-organized with <a href="http://matematicas.uam.es/~fernando.chamizo/" target="_blank">Fernando Chamizo</a>, <a href="http://verso.mat.uam.es/~enrique.gonzalez.jimenez/" target="_blank">Enrique González Jiménez</a>, and <a href="https://sites.google.com/site/danielmaciascastillo" target="_blank">Daniel Macías Castillo</a>.
+
