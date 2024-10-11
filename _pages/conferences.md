@@ -7,6 +7,10 @@ nav: true
 nav_order: 2
 ---
 
+- (Upcoming) <a href="https://www.slmath.org/workshops/1140" target="_blank">AI for Mathematics and Theoretical Computer Science</a><br>
+Simons Institute for the Theory of Computing and SLMath, Berkeley, California, USA, 7 -- 11 April, 2025.<br>
+Co-organized with <a href="https://www.andrew.cmu.edu/user/avigad/" target="_blank">Jeremy Avigad</a>, <a href="https://florisvandoorn.com/" target="_blank"> Floris van Doorn</a>, <a href="https://www.cs.cmu.edu/~mheule/" target="_blank">Marijn Heule</a>, and <a href="https://users.wpi.edu/~zadam/" target="_blank"> Adam Wagner</a>.
+
 - <a href="https://conferences.cirm-math.fr/2970.html" target="_blank">Lean for the Curious Mathematician 2024</a><br>
 Centre international de rencontres mathématiques (CIRM), Luminy, France, 25 -- 29 March, 2024.<br>
 Co-organized with <a href="https://webusers.imj-prg.fr/~riccardo.brasca/" target="_blank">Riccardo Brasca</a>, <a href="https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml" target="_blank">Antoine Chambert-Loir</a>, and <a href="https://perso.univ-st-etienne.fr/nf51454h/index.html" target="_blank">Filippo A. E. Nuccio Mortarino Majno di Capriglio</a>.
