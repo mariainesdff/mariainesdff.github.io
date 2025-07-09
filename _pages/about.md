@@ -28,4 +28,4 @@ My main research interests are mathematical formalization and number theory.
 
 Here is my <a href="/assets/pdf/CV_Maria_Ines_de_Frutos_Fernandez.pdf" target="_blank">CV</a>.
 
-Last updated: 4 November 2024.
+Last updated: 9 July 2025.

@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-- (Upcoming) <a href="https://www.slmath.org/workshops/1140" target="_blank">AI for Mathematics and Theoretical Computer Science</a><br>
+- <a href="https://www.slmath.org/workshops/1140" target="_blank">AI for Mathematics and Theoretical Computer Science</a><br>
 Simons Institute for the Theory of Computing and SLMath, Berkeley, California, USA, 7 -- 11 April, 2025.<br>
 Co-organized with <a href="https://www.andrew.cmu.edu/user/avigad/" target="_blank">Jeremy Avigad</a>, <a href="https://florisvandoorn.com/" target="_blank"> Floris van Doorn</a>, <a href="https://www.cs.cmu.edu/~mheule/" target="_blank">Marijn Heule</a>, and <a href="https://users.wpi.edu/~zadam/" target="_blank"> Adam Wagner</a>.
 
