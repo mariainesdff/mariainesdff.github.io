@@ -1,6 +1,8 @@
 github_users:
   - mariainesdff
 
+repo_description_lines_max: 2
+
 github_repos:
   - mariainesdff/local_class_field_theory
   - AntoineChambert-Loir/divided_powers
