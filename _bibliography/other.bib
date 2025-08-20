@@ -1,30 +1,7 @@
 ---
 ---
 
-@manual{Carleson,
-  abbr        = {arXiv},
-  bibtex_show = {true},
-  title       = {A blueprint for the formalization of Carleson's theorem on convergence of Fourier series},
-  author      = {{Becker}, Lars, and {Diedering}, Leo and {van Doorn}, Floris and {Gouëzel} Sébastien, 
-  and {Jamneshan}, Asgar and {Karunus}, Evgenia and {van de Meent}, Edward and {Monticone}, Pietro
-  and {Mulder-Sohn}, Jasper and {Portegies}, Jim and {Roos}, Joris and {Rothgang}, Michael and
-  {Srivastava}, Rajula and {Sundstrom}, James and {Tan}, Jeremy and {Thiele}, Christoph},
-  note        = {Preprint}, 
-  year        = {2025},
-  url         = {https://arxiv.org/abs/2405.06423},
-  html        = {https://arxiv.org/abs/2405.06423},
-  pdf         = {https://arxiv.org/abs/2405.06423},
-  selected    = {true},
-  abstract    = {This paper is the blueprint underlying the Lean formalization of the proof of Carleson's
-  classical result asserting almost everywhere convergence of Fourier series of continuous functions. We break up
-  the proof into two steps, a reduction of the classical result to a new theorem that appears in a sibling
-  communication and a proof of this new theorem, which is also detailed as blueprint in this paper. 
-  An early version of this blueprint was used to initiate the Lean formalization. During the formalization, 
-  many contributors elaborated the blueprint with minor corrections, modifications and extensions. 
-  The final version is presented here as a guide through the accompanying Lean code.}
-}
-
-@manual{CLdFF,
+@unpublished{CLdFF,
   abbr        = {arXiv},
   bibtex_show = {true},
   title       = {A Formalization of Divided Powers in Lean},
@@ -110,7 +87,7 @@ Building on the definition of ${C}_p$, we formalize the definition of the Fontai
 The results formalized in this paper are a prerequisite to formalize Local Class Field Theory, which is a fundamental ingredient of the proof of Fermat's Last Theorem. }
 }
 
-@manual{RCNF,
+@unpublished{RCNF,
   abbr        = {arXiv},
   bibtex_show = {true},
   title       = {The refined class number formula for Drinfeld modules},
@@ -201,7 +178,7 @@ html        = {https://link.springer.com/chapter/10.1007/978-3-030-80914-0_14},
 pdf         = {https://arxiv.org/pdf/1909.04808.pdf}
 }
 
-@manual{arXiv21,
+@unpublished{arXiv21,
   abbr        = {arXiv},
   bibtex_show = {true},
   title       = {Rational linear subspaces of hypersurfaces over finite fields},
@@ -242,3 +219,23 @@ url      = {https://open.bu.edu/handle/2144/41489},
 html     = {https://open.bu.edu/handle/2144/41489},
 pdf      = {https://open.bu.edu/bitstream/handle/2144/41489/deFrutosFernxE1ndez_bu_0017E_15445.pdf?sequence=7&isAllowed=y}
 } 
+
+@unpublished{senior_thesis,
+  abbr        = {Thesis},
+  bibtex_show = {true},
+  title       = {El problema del logaritmo discreto para curvas elípticas y sus aplicaciones criptográficas},
+  author      = {{de Frutos-Fernández}, María Inés},
+  note        = {Trabajo de Fin de Grado/Senior Thesis}, 
+  year        = {2014},
+  pdf         = {http://math.bu.edu/people/midff/maria_ines_de_frutos_fernandez_tfg.pdf},
+  abstract    = { We present some cryptographical applications of the discrete logarithm problem over 
+  elliptic curves, including Diffie-Hellman key exchange, Massey-Omura encryption and ECDSA digital
+signatures. We analyze some general attacks on the DLP: Baby-Step Giant-Step, Pollard's rho
+algorithm and Silver-Pohlig-Hellman attack. We also describe two specifics attacks: the
+subexponential algorithm Index Calculus, which works over $F_q^*$, and Xedni Calculus, which is an
+attack on the DLP over elliptic curves. Finally, we compare the performances of several attacks
+over $F_q^*$ and $E(F_q)$: Baby-Step Giant-Step, four variants of Pollard's rho method and Index
+Calculus (the last one, only over $F_q^*$). We conclude that, on groups of the sizes we consider,
+Pollard's rho attack works best for computing isolated logarithms, while Index Calculus is the
+fastest method when several attacks need to be made. }
+}
