@@ -8,6 +8,8 @@ nav_order: 4
 ---
 
 ## Lecture series and mini-courses
+- Mathematical Formalization with Lean
+  Universidad Autónoma de Madrid, 4 -- April 2024.
 - Formalizing Mathematics in Lean 4<br>
   <a href="https://www.usc.es/regaca/eacaschool23/index.html" target="_blank">Sixth EACA International School on Computer Algebra and its Applications </a><br>
   Universidade de Santiago de Compostela, 18 -- 21 July 2023.

@@ -4,11 +4,11 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - mariainesdff/local_class_field_theory
-  - AntoineChambert-Loir/divided_powers
-  - mariainesdff/local_fields
-  - mariainesdff/ideles
+  - AntoineChambert-Loir/DividedPowers4
+  - mariainesdff/LocalClassFieldTheory
   - fpvandoorn/carleson
+  - mariainesdff/norm_extensions_lean_4/
+  - mariainesdff/ideles
   - mariainesdff/ostrowski2024
   - leanprover-community/mathlib4
   - leanprover-community/mathlib/

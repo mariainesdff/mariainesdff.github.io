@@ -1,31 +1,67 @@
-"Chambert-Loir":
+"van doorn":
+  - firstname: ["Floris", "F."]
+    url: https://florisvandoorn.com/
+
+"thiele":
+  - firstname: ["Christoph", "C."]
+    url: https://www.math.uni-bonn.de/people/thiele/
+
+"gouezel":
+  - firstname: ["Sébastien", "S."]
+    url: https://perso.univ-rennes1.fr/sebastien.gouezel/
+
+"jamneshan":
+  - firstname: ["Asgar", "A."]
+    url: https://ajamnesh.github.io/
+
+"portegies":
+  - firstname: ["Jim", "J."]
+    url: https://www.tue.nl/en/research/researchers/jim-portegies
+
+"roos":
+  - firstname: ["Joris", "J."]
+    url: https://sites.google.com/view/joris-roos
+
+"rothgang":
+  - firstname: ["Michael", "M."]
+    url: https://www.math.uni-bonn.de/people/rothgang/
+
+"srivastava":
+  - firstname: ["Rajula", "R."]
+    url: https://sites.google.com/view/rajulas/home
+
+"becker":
+  - firstname: ["Lars", "L."]
+    url: https://www.math.uni-bonn.de/people/becker/c
+
+"chambert-loir":
   - firstname: ["Antoine", "A."]
     url: https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml
 
-"Macías Castillo":
+"macias castillo":
   - firstname: ["Daniel", "D."]
     url: https://sites.google.com/site/danielmaciascastillo
 
-"Martínez Marqués":
+"martinez marques":
   - firstname: ["Daniel", "D."]
     url: https://verso.mat.uam.es/web/index.php/es/directorio/26-pdef/332-martinez-marques-daniel
 
-"Nuccio Mortarino Majno di Capriglio":
+"nuccio mortarino majno di capriglio":
   - firstname: ["Filippo Alberto Edoardo", "Filippo A. E.", "F. A. E."]
     url: https://perso.univ-st-etienne.fr/nf51454h/
 
-"Hashimoto":
+"hashimoto":
   - firstname: ["Sachi", "S."]
     url: https://sachihashimoto.github.io/
 
-"Isham":
+"isham":
   - firstname: ["Kelly", "K."]
     url: https://sites.google.com/view/kellyisham/
     
-"Murayama":
+"murayama":
   - firstname: ["Takumi", "T."]
     url: https://www.math.purdue.edu/~murayama/
 
-"Smith":
+"smith":
   - firstname: ["Geoffrey", "G."]
     url: https://sites.google.com/view/geoffreysmith
