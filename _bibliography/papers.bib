@@ -11,7 +11,7 @@
   url         = {https://arxiv.org/abs/2405.06423},
   html        = {https://arxiv.org/abs/2405.06423},
   pdf         = {https://arxiv.org/pdf/2405.06423},
-  selected    = {true},
+  selected    = {false},
   abstract    = {This paper is the blueprint underlying the Lean formalization of the proof of Carleson's
   classical result asserting almost everywhere convergence of Fourier series of continuous functions. We break up
   the proof into two steps, a reduction of the classical result to a new theorem that appears in a sibling
@@ -21,23 +21,45 @@
   The final version is presented here as a guide through the accompanying Lean code.}
 }
 
-@unpublished{CLdFF,
+@InProceedings{chambertloir_et_al:LIPIcs.ITP.2025.4,
   abbr        = {LIPIcs},
   bibtex_show = {true},
-  title       = {A Formalization of Divided Powers in Lean},
+  selected = {true},
+  author =	{Chambert-Loir, Antoine and de Frutos-Fern\'{a}ndez, Mar{\'\i}a In\'{e}s},
+  title =	{{A Formalization of Divided Powers in Lean}},
+  booktitle =	{16th International Conference on Interactive Theorem Proving (ITP 2025)},
+  pages =	{4:1--4:17},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-396-6},
+  ISSN =	{1868-8969},
+  year =	{2025},
+  volume =	{352},
+  editor =	{Forster, Yannick and Keller, Chantal},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2025.4},
+  URN =		{urn:nbn:de:0030-drops-246038},
+  doi =		{10.4230/LIPIcs.ITP.2025.4},
+  annote =	{Keywords: Formal mathematics, algebraic number theory, commutative algebra, divided powers, Lean, Mathlib}
+}
+
+@unpublished{CLdFF26,
+  abbr        = {ACM},
+  bibtex_show = {true},
+  title       = {Formalizing polynomial laws and the universal divided power algebra},
   author      = {{Chambert-Loir}, Antoine and {de Frutos-Fernández}, María Inés},
-  note        = {Accepted to 16th International Conference on Interactive Theorem Proving (ITP '25), 2025, Reykjavik, Iceland}, 
-  year        = {2025},
-  url         = {https://arxiv.org/abs/2507.05327},
-  html        = {https://arxiv.org/abs/2507.05327},
-  pdf         = {https://arxiv.org/pdf/2507.05327},
+  note        = {Accepted to Certified Programs and Proofs (CPP) 2026, Rennes, France}, 
+  year        = {2026},
+  url         = {https://popl26.sigplan.org/details/CPP-2026-papers/25/Formalizing-polynomial-laws-and-the-universal-divided-power-algebra},
+  html        = {https://popl26.sigplan.org/details/CPP-2026-papers/25/Formalizing-polynomial-laws-and-the-universal-divided-power-algebra},
   selected    = {true},
-  abstract    = {Given an ideal $I$ in a commutative ring $A$, a divided power structure on $I$ is a collection of maps $\{\gamma_n \colon I \to A\}_{n \in \mathbb{N}}$,
-subject to axioms that imply that it behaves like the family $\{x \mapsto \frac{x^n}{n!}\}_{n \in \mathbb{N}}$, but which can be defined even when division by factorials is not possible in $A$. Divided power structures have important applications in diverse areas of mathematics, including algebraic topology, number theory and algebraic geometry.
+  abstract    = {The goal of this paper is to present an ongoing formalization, in the framework provided by the Lean/mathlib mathematical library, of the construction by Roby (1965) of the universal divided power algebra. This is an analogue, in the theory of divided powers, of the classical algebra of polynomials. It is a crucial tool in the development of crystalline cohomology; it is also used in $p$-adic Hodge theory to define the crystalline period ring.
 
-In this article we describe a formalization in Lean 4 of the basic theory of divided power structures, including divided power morphisms and sub-divided power ideals, and we provide several fundamental constructions, in particular quotients and sums. This constitutes the first formalization of this theory in any theorem prover.
+As an algebra, this universal divided power algebra has a fairly simple definition that shows that it is a graded algebra. The main difficulty in Roby's theorem lies in constructing a divided power structure on its augmentation ideal. To that aim, Roby identified the graded pieces with another universal structure: homogeneous polynomial laws.
 
-As a prerequisite of general interest, we expand the formalized theory of multivariate power series rings, endowing them with a topology and defining evaluation and substitution of power series.}
+We formalize the first steps of the theory of polynomial laws and show how future work will allow to complete the formalization of the above-mentioned divided power structure.
+
+We report on various difficulties that appeared in this formalization: taking care of universes, extending to semirings some aspects of the Mathlib library, and coping with several instances of "invisible mathematics".
 }
 
 @inproceedings{dFN23,
@@ -139,7 +161,7 @@ Taelman class group of E over K.}
   url         = {https://jtnb.centre-mersenne.org/articles/10.5802/jtnb.1207/},
   html        = {https://jtnb.centre-mersenne.org/articles/10.5802/jtnb.1207/},
   pdf         = {https://jtnb.centre-mersenne.org/item/10.5802/jtnb.1207.pdf},
-  selected    = {true},
+  selected    = {false},
   abstract    = { We provide explicit equations for moduli spaces of Drinfeld shtukas over the projective
    line ${P}^1$ with $\Gamma (N)$, $\Gamma _1(N)$ and $\Gamma _0(N)$ level structures, where $N$ is an 
    effective divisor on ${P}^1$. If the degree of $N$ is high enough, these moduli spaces are 
