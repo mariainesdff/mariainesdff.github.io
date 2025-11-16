@@ -21,28 +21,6 @@
   The final version is presented here as a guide through the accompanying Lean code.}
 }
 
-@InProceedings{chambertloir_et_al:LIPIcs.ITP.2025.4,
-  abbr        = {LIPIcs},
-  bibtex_show = {true},
-  selected = {true},
-  author =	{Chambert-Loir, Antoine and de Frutos-Fern\'{a}ndez, Mar{\'\i}a In\'{e}s},
-  title =	{{A Formalization of Divided Powers in Lean}},
-  booktitle =	{16th International Conference on Interactive Theorem Proving (ITP 2025)},
-  pages =	{4:1--4:17},
-  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
-  ISBN =	{978-3-95977-396-6},
-  ISSN =	{1868-8969},
-  year =	{2025},
-  volume =	{352},
-  editor =	{Forster, Yannick and Keller, Chantal},
-  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
-  address =	{Dagstuhl, Germany},
-  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2025.4},
-  URN =		{urn:nbn:de:0030-drops-246038},
-  doi =		{10.4230/LIPIcs.ITP.2025.4},
-  annote =	{Keywords: Formal mathematics, algebraic number theory, commutative algebra, divided powers, Lean, Mathlib}
-}
-
 @unpublished{CLdFF26,
   abbr        = {ACM},
   bibtex_show = {true},
@@ -61,6 +39,37 @@ We formalize the first steps of the theory of polynomial laws and show how futur
 
 We report on various difficulties that appeared in this formalization: taking care of universes, extending to semirings some aspects of the Mathlib library, and coping with several instances of "invisible mathematics".}
 }
+
+@InProceedings{chambertloir_et_al:LIPIcs.ITP.2025.4,
+  abbr        = {LIPIcs},
+  bibtex_show = {true},
+  selected = {true},
+  author =	{Chambert-Loir, Antoine and de Frutos-Fern\'{a}ndez, Mar{\'\i}a In\'{e}s},
+  title =	{{A Formalization of Divided Powers in Lean}},
+  booktitle =	{16th International Conference on Interactive Theorem Proving (ITP 2025)},
+  pages =	{4:1--4:17},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-396-6},
+  ISSN =	{1868-8969},
+  year =	{2025},
+  volume =	{352},
+  editor =	{Forster, Yannick and Keller, Chantal},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  url =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2025.4},
+  html =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2025.4},
+  pdf = {https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.4/LIPIcs.ITP.2025.4.pdf},
+  URN =		{urn:nbn:de:0030-drops-246038},
+  doi =		{10.4230/LIPIcs.ITP.2025.4},
+  annote =	{Keywords: Formal mathematics, algebraic number theory, commutative algebra, divided powers, Lean, Mathlib}
+  abstract = {Given an ideal $I$ in a commutative ring $A$, a divided power structure on $I$ is a collection of maps $\{\gamma_n \colon I \to A\}_{n \in \mathbb{N}}$,
+subject to axioms that imply that it behaves like the family $\{x \mapsto \frac{x^n}{n!}\}_{n \in \mathbb{N}}$, but which can be defined even when division by factorials is not possible in $A$. Divided power structures have important applications in diverse areas of mathematics, including algebraic topology, number theory and algebraic geometry.
+
+In this article we describe a formalization in Lean 4 of the basic theory of divided power structures, including divided power morphisms and sub-divided power ideals, and we provide several fundamental constructions, in particular quotients and sums. This constitutes the first formalization of this theory in any theorem prover.
+
+As a prerequisite of general interest, we expand the formalized theory of multivariate power series rings, endowing them with a topology and defining evaluation and substitution of power series.}
+}
+
 
 @inproceedings{dFN23,
   abbr        = {ACM},
