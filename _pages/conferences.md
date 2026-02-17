@@ -11,6 +11,10 @@ nav_order: 2
 Centrum Wiskunde & Informatica (CWI), Amsterdam, The Netherlands, Fall 2027.<br>
 Co-organized with <a href="https://www.cwi.nl/en/people/maris-ozols/" target="_blank">Maris Ozols</a>, <a href="https://www.cwi.nl/en/people/tim-baarslag/" target="_blank"> Tim Baarslag</a>, <a href="https://math.commelin.net/" target="_blank"> Johan Commelin</a>, <a href="https://www.tue.nl/en/research/researchers/jim-portegies" target="_blank">Jim Portegies</a>, and <a href="https://lennytaelman.github.io/" target="_blank"> Lenny Taelman</a>.
 
+- (Upcoming) <a href="https://www.floc26.org/program" target="_blank">FLoC 2026 Lean workshop</a><br>
+ISCTE, Lisbon, Portugal, 25 July 2026.<br>
+Co-organized with <a href="https://kmill.github.io/" target="_blank">Kyle Miller</a>.
+
 - <a href="https://www.slmath.org/workshops/1140" target="_blank">AI for Mathematics and Theoretical Computer Science</a><br>
 Simons Institute for the Theory of Computing and SLMath, Berkeley, California, USA, 7 -- 11 April, 2025.<br>
 Co-organized with <a href="https://www.andrew.cmu.edu/user/avigad/" target="_blank">Jeremy Avigad</a>, <a href="https://florisvandoorn.com/" target="_blank"> Floris van Doorn</a>, <a href="https://www.cs.cmu.edu/~mheule/" target="_blank">Marijn Heule</a>, and <a href="https://users.wpi.edu/~zadam/" target="_blank"> Adam Wagner</a>.
