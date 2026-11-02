@@ -8,7 +8,10 @@ nav_order: 4
 ---
 
 ## Lecture series and mini-courses
-- (Upcoming) Lean mini-course<br>
+- Mathematical formalization with Lean 4<br>
+  <a href="https://www.icmat.es/congresos/2026/AIMD/" target="_blank">AI and Mathematics Days</a><br>
+  ICMAT, 14 -- 16 September 2026.
+- Lean mini-course<br>
   SISSA, Trieste, 13 -- 17 July 2026.
 - Mathematical Formalization with Lean<br>
   Universidad Autónoma de Madrid, 4 -- 5 April 2024.

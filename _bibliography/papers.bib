@@ -1,7 +1,24 @@
 ---
 ---
 
-@unpublished{Carleson,
+@unpublished{CarlesonPaper,
+  abbr        = {arXiv},
+  bibtex_show = {true},
+  title       = {Formalizing Carleson's Theorem in Lean},
+  author      = {{Becker}, Lars, and {de Frutos-Fernández}, María Inés and {Diedering}, Leo and {van Doorn}, Floris and {Gouëzel}, Sébastien and {Karunus}, Evgenia and {van de Meent}, Edward and {Monticone}, Pietro and {Mulder-Sohn}, Jasper and {Portegies}, Jim and {Roos}, Joris and {Rothgang}, Michael and {Sundstrom}, James and {Tan}, Jeremy},
+  note        = {Preprint}, 
+  year        = {2026},
+  url         = {https://arxiv.org/abs/2609.31334},
+  html        = {https://arxiv.org/abs/2609.31334},
+  pdf         = {https://arxiv.org/pdf/2609.31334},
+  selected    = {true},
+  abstract    = {We present the formalization of Carleson’s theorem in the proof assistant Lean.
+This paper describes the mathematical content, the organization of the project, the blue-
+print, and the main design decisions behind the formalization. It is the result of a large
+collaborative effort, written and developed in public.}
+}
+
+@unpublished{CarlesonBlueprint,
   abbr        = {arXiv},
   bibtex_show = {true},
   title       = {A blueprint for the formalization of Carleson's theorem on convergence of Fourier series},
@@ -53,7 +70,7 @@ We report on various difficulties that appeared in this formalization: taking ca
 @InProceedings{CLdFF25,
   abbr        = {LIPIcs},
   bibtex_show = {true},
-  selected = {true},
+  selected = {false},
   author =	{Chambert-Loir, Antoine and de Frutos-Fern\'{a}ndez, Mar{\'\i}a In\'{e}s},
   title =	{{A Formalization of Divided Powers in Lean}},
   booktitle =	{16th International Conference on Interactive Theorem Proving (ITP 2025)},
@@ -132,7 +149,7 @@ As a prerequisite of general interest, we expand the formalized theory of multiv
   URN         =	{urn:nbn:de:0030-drops-183880},
   doi         =	{10.4230/LIPIcs.ITP.2023.13},
   html        =	{https://drops.dagstuhl.de/opus/volltexte/2023/18388},
-  selected    = {true},
+  selected    = {false},
   pdf         = {https://drops.dagstuhl.de/opus/volltexte/2023/18388/pdf/LIPIcs-ITP-2023-13.pdf},
   annote      =	{Keywords: formal mathematics, Lean, mathlib, algebraic number theory, p-adic analysis, 
     Galois representations, p-adic Hodge theory},
@@ -148,16 +165,20 @@ Building on the definition of ${C}_p$, we formalize the definition of the Fontai
 The results formalized in this paper are a prerequisite to formalize Local Class Field Theory, which is a fundamental ingredient of the proof of Fermat's Last Theorem. }
 }
 
-@unpublished{RCNF,
-  abbr        = {arXiv},
+@article{RCNF,
+  abbr        = {ComposMath},
   bibtex_show = {true},
   title       = {The refined class number formula for Drinfeld modules},
   author      = {{de Frutos-Fernández}, María Inés and {Macías Castillo}, Daniel and {Martínez Marqués}, Daniel},
-  note        = {Accepted to Compositio Mathematica}, 
-  year        = {2025},
-  url         = {https://arxiv.org/abs/2309.17256},
-  html        = {https://arxiv.org/abs/2309.17256},
-  pdf         = {https://arxiv.org/pdf/2309.17256.pdf},
+  year        = {2026},
+  volume      = {162},
+  DOI         = {10.1017/S0010437X26103108},
+  number      = {4},
+  pages       = {852--903}
+  journal     = {Compositio Mathematica},
+  url         = {https://www.cambridge.org/core/journals/compositio-mathematica/article/refined-class-number-formula-for-drinfeld-modules/D22C391D65FB0B88ED9D30DA91237F62},
+  html        = {https://www.cambridge.org/core/journals/compositio-mathematica/article/refined-class-number-formula-for-drinfeld-modules/D22C391D65FB0B88ED9D30DA91237F62},
+  pdf         = {https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D22C391D65FB0B88ED9D30DA91237F62/S0010437X26103108a.pdf/the-refined-class-number-formula-for-drinfeld-modules.pdf},
   selected    = {true},
   abstract    = {Let K/k be a finite Galois extension of global function fields.
 Let E be a Drinfeld module over k. We state and prove an equivariant
