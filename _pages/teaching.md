@@ -8,6 +8,8 @@ nav_order: 4
 ---
 
 ## Lecture series and mini-courses
+- (Upcoming) Lean mini-course<br>
+  SISSA, Trieste, 13 -- 17 July 2026.
 - Mathematical Formalization with Lean<br>
   Universidad Autónoma de Madrid, 4 -- 5 April 2024.
 - Formalizing Mathematics in Lean 4<br>
