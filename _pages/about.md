@@ -4,6 +4,10 @@ title: About
 permalink: /
 subtitle: Chargée de recherche at <a href="https://www.cnrs.fr" target="_blank">CNRS</a>.
 
+scholar:
+  sort_by: year
+  order: descending
+
 profile:
   align: right
   image: prof_pic.jpg
