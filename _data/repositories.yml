@@ -4,14 +4,15 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - mariainesdff/HassePrinciple
   - AntoineChambert-Loir/DividedPowers4
-  - mariainesdff/LocalClassFieldTheory
   - fpvandoorn/carleson
+  - mariainesdff/LocalClassFieldTheory
   - mariainesdff/norm_extensions_lean_4/
   - mariainesdff/ideles
   - mariainesdff/ostrowski2024
   - leanprover-community/mathlib4
   - leanprover-community/mathlib/
-  - mariainesdff/EACA_School
-  - mariainesdff/curso_formalizacion
+  - mariainesdff/icmat_26
+  - mariainesdff/SISSALean
   
